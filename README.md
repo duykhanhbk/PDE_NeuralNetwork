@@ -7,5 +7,5 @@ One of the first versions of the theorem was proved by George Cybenko in 1989 fo
 #  The expressive power of neural networks
 #  Approximation capabilities of multilayer feedforward networks
 # Deep Learning
-# machine-learning
+# Machine-learning
 # Genetic Algorithm
